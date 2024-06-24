@@ -24,3 +24,7 @@ patients.
    
    streamlit run app.py
    ```
+##  Dataset used for Training
+
+Diabetes 130-US hospitals for years 1999-2008 Dataset from [UCI Machine Learning
+Repository.](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
