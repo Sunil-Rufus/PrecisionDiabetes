@@ -21,6 +21,6 @@ patients.
 
 3. Run the chat application using Streamlit - add your huggingface API token to the code.
    ```
-   cd deploy/
-   streamlit run deploy.py
+   
+   streamlit run app.py
    ```
