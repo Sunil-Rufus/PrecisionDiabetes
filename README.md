@@ -1,4 +1,4 @@
-#Diabetes Readmission Predictor
+# Diabetes Readmission Predictor
 The objective of this analysis is to evaluate the probability of hospital readmission within 30
 days of discharge for patients with diabetes, based on various factors such as age, gender,
 medication, HbA1c levels, and medical and demographic history. The analysis aims to identify
@@ -28,3 +28,5 @@ patients.
 
 Diabetes 130-US hospitals for years 1999-2008 Dataset from [UCI Machine Learning
 Repository.](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
+
+The details of the models used for training and the procedures can be found in the attached report to the repository.
